@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sparrowhe&show_icons=true&icon_color=66ccff&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sparrowhe&show_icons=true&icon_color=66ccff&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrowhe" />
 <!-- Check the sum of - and >>2 -->
 
 Hello, I am SparrowHe  
@@ -15,7 +16,7 @@ Technology Stacks:
 - Python 3.x
 - Node.js
 - Vue.js 2 (Studying)
-- Nil
+- ActionScript 3
 
 Hobbies:
 - Gugugu
