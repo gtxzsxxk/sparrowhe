@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sparrowhe&show_icons=true&icon_color=66ccff&text_color=718096&bg_color=ffffff&hide_title=true" />
-<h style="display:none;">Check the sum of - and >>2 </h>
+<!-- Check the sum of - and >>2 -->
 
 Hello, I am SparrowHe  
 I am a(an):
